@@ -26,8 +26,10 @@ public class LoginPage {
 
     public void Login(String userName, String password)
     {
-        txtUserName.sendKeys(userName);
-        txtPassword.sendKeys(password);
+       // txtUserName.sendKeys(userName);
+       // txtPassword.sendKeys(password);
+        txtUserName.sendKeys(admin);
+        txtPassword.sendKeys(adminpassw);
     }
 
     public void ClickLogin()
