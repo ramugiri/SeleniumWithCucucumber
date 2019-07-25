@@ -82,6 +82,11 @@
             <version>3.141.59</version>
         </dependency>
 
+             
+  <properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+  </properties>
 
 
         <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-testng -->
