@@ -29,7 +29,7 @@ public class LoginPage {
        // txtUserName.sendKeys(userName);
        // txtPassword.sendKeys(password);
         txtUserName.sendKeys(admin);
-        txtPassword.sendKeys(adminpassw);
+        txtPassword.sendKeys(adminpassword);
     }
 
     public void ClickLogin()
