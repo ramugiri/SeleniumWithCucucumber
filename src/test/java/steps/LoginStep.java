@@ -87,7 +87,7 @@ public class LoginStep extends BaseUtil{
            // username= userName;
               username = admin;
            // password = passWord;
-             password = adminpass
+             password = adminpass;
         }
     }
 
